@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="24" tilewidth="8" tileheight="8">
+ <objectgroup name="plats" width="40" height="24"/>
+ <objectgroup name="keys" width="40" height="24">
+  <object x="128" y="146" width="8" height="8"/>
+  <object x="184" y="146" width="8" height="8"/>
+ </objectgroup>
+ <objectgroup name="hole" width="40" height="24">
+  <object x="24" y="152" width="20" height="20">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="traps" width="40" height="24">
+  <object x="96" y="170" width="16" height="8"/>
+  <object x="208" y="170" width="16" height="8"/>
+  <object x="152" y="170" width="16" height="8"/>
+ </objectgroup>
+</map>
